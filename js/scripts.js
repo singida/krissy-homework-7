@@ -24,7 +24,7 @@ $(document).ready(function() {
 		// });
 
 	//i is my index for whatever element i'm on in my array
-
+	// I would make this as specific as possible and use #city-type
 	$(".container").change(function(){
 		event.preventDefault();
 
